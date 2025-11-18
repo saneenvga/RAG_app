@@ -1,0 +1,29 @@
+First try:
+
+File: travel_policy.txt
+ Q: Is travel insurance covered for local trips?
+ Retrieved Chunks:
+- "Travel insurance is provided only for international trips."
+ Gemini Answer:
+"No, the company only provides travel insurance for international trips."
+ Status: Accurate | Grounded | No hallucination
+
+Second Try:
+
+ File: hr_policy.docx
+ Q: What are the official working hours?
+ Retrieved Chunks:
+- "Employees must be present between 9 AM and 6 PM."
+ Gemini Answer:
+"The official work hours are 9 AM to 6 PM."
+ Status: Accurate | Grounded | Matched file data
+
+Third try:
+
+File: it_policy.docx
+ Q: Can I use my personal laptop for work?
+ Retrieved Chunks:
+- "Use of personal laptops for storing company data is prohibited."
+ Gemini Answer:
+"Employees are not allowed to use personal laptops to store company data."
+ Status: Accurate | Grounded | Security policy followed

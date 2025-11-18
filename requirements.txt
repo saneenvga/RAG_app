@@ -1,0 +1,17 @@
+ *Core dependencies*
+1. streamlit
+2. python-dotenv
+
+ *File reading*
+1. PyMuPDF
+2. python-docx
+3. pandas
+4. openpyxl
+5. beautifulsoup4
+
+ *Langchain + Gemini*
+1. langchain
+2. langchain-google-genai
+
+ *Vector DB*
+1. chromadb
